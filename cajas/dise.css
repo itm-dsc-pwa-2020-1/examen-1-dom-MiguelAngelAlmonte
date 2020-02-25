@@ -140,6 +140,8 @@ body{
 .caja_3j{
     width: 325px;
     height:520px;
+    background-color: black;
+    color: white;
     font-size: 17px;
     float: left;
 }
