@@ -1,0 +1,175 @@
+
+body{
+    font-family: Arial;
+    background-color: #ffffff;
+    margin:0;
+     padding:0;
+     top:0;
+     bottom:0;
+     font-size:0;
+    line-height:0; 
+}
+.izquierda {
+	text-align: left;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.derecha {
+	text-align: right;
+}
+.justificar {
+    text-align: justify;
+}
+
+.pagina_ {
+    width: 1350px;
+    }    
+.caja_encabezado{
+    width: 1350px;
+    height: 130px;
+    background-color:rgb(255, 255, 255);
+    color: #ffffff;
+   
+}
+.caja_principal{
+    width: 1350px;
+    height: 600px;
+}
+
+.caja_inferior{
+    width: 1350px;
+    height: 260px;
+    color: #ffffff;
+    font-size: 17px;
+}
+
+.caja_1{
+    width:325px;
+    height:100px;
+    background:white;
+    font-size: 17px;
+    float: left;
+}
+.caja_2{
+    width: 325px;
+    height:100px;
+    background:white;
+    font-size: 17px;
+    float: left;
+}
+.caja_3{
+    width: 325px;
+    height:520px;
+    font-size: 17px;
+    float: left;
+}
+.caja_4{
+    width: 325px;
+    height:100px;
+    background:white;
+    font-size: 17px;  
+    float: left;
+}
+.caja_pie_1 {   
+    height: 260px;
+    width: auto;
+    float: left;
+}
+.caja_pie_2 {
+    height: 260px;
+    width: auto;
+   
+}
+.caja_pie_3 {
+    height: 260px;
+    float:right;
+ 
+}
+
+/* DARK */
+
+.body2{
+    font-family: Arial;
+    background-color: black;
+    margin:0;
+ padding:0;
+ top:0;
+ bottom:0;
+ font-size:0;
+ line-height:0; 
+}
+.caja_encabezado2{
+    width: 1350px;
+    height: 130px;
+    background-color:black;
+    color: #ffffff;
+   
+}
+.caja_principal2{
+    width: 1350px;
+    height: 600px;
+    background-color: black;
+}
+
+.caja_inferior2{
+    width: 1350px;
+    height: 260px;
+    background-color: black;
+    color: white;
+    font-size:17px;
+}
+.caja_1j{
+    width:325px;
+    height:100px;
+    background:black;
+    color: white;
+    font-size: 17px;
+    float: left;
+}
+.caja_2j{
+    width: 325px;
+    height:100px;
+    background:black;
+    color: white;
+    font-size: 17px;
+    float: left;
+}
+.caja_3j{
+    width: 325px;
+    height:520px;
+    font-size: 17px;
+    float: left;
+}
+.caja_4j{
+    width: 325px;
+    height:100px;
+    background:black;
+    color: white;
+    font-size: 17px;  
+    float: left;
+}
+.caja_pie_1j {   
+    height: 260px;
+    background-color: black;
+    width: auto;
+    float: left;
+}
+.caja_pie_2j {
+    height: 260px;
+    width: auto;
+    background-color: black;
+   
+}
+.caja_pie_3j {
+    height: 260px;
+    float:right;
+    background-color: black;
+ 
+}
+
+
+
+
